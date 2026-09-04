@@ -1,0 +1,7 @@
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos locales de macOS
+.DS_Store
