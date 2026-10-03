@@ -3,5 +3,12 @@
 .env.*
 !.env.example
 
+# Entornos y datos generados localmente
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
 # Archivos locales de macOS
 .DS_Store
